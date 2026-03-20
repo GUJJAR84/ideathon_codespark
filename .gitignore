@@ -1,3 +1,17 @@
 PERSON_A_PLAN.md
 PERSON_B_PLAN.md
 DATA_CONTRACT.md
+
+# Secrets
+.env
+ai_engine/.env
+
+# Logs
+ai_engine/logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
